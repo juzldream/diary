@@ -1,3 +1,3 @@
 # log
-记录racher每天的修行
+:dog: 记录racher每天的修行
 
