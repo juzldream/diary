@@ -28,7 +28,7 @@
 |:mushroom: 微博       |http://blog.sina.com.cn/juzldream  |
 |:octocat: GitHub    |https://github.com/juzldream         |
 |:love_letter: 邮箱       |juzldream@foxmail.com            |
-|微信订阅号        | juzldream                               |
+|微信订阅号        | [蝉溪一梦](https://mmbiz.qlogo.cn/mmbiz_png/4iaE7bB4HCjfn8ia42fUxhYPRdKm3qhkI0DazY7MDcBCIDib2oX6ZwZN0IffoTrCVTaumKNAnB2ucpBfmMsFO32cw/0?wx_fmt=png)                               |
 
 哎！直接拿起微信扫我吧 ：） 
 
@@ -36,4 +36,4 @@
 
 
 [GitHub]:https://github.com/juzldream
-[juzldream]:https://mmbiz.qlogo.cn/mmbiz_jpg/4iaE7bB4HCjdEnicn9QIOBssFWUOuyTZXlGtzIWtO9Xk4xolWa8dlricJbfjca5shQEbia5vs6JfWyPblukuvPTWgw/0?wx_fmt=jpeg
+[juzldream]:https://mmbiz.qlogo.cn/mmbiz_png/4iaE7bB4HCjfn8ia42fUxhYPRdKm3qhkI0DazY7MDcBCIDib2oX6ZwZN0IffoTrCVTaumKNAnB2ucpBfmMsFO32cw/0?wx_fmt=png
