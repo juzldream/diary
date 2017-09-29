@@ -1,6 +1,6 @@
 ## diary 说明
 
-记录 [racher](resume.md) 每天的task、思考、日志。
+记录 [racher](resume.md) 每天的task、思考、随笔、日志等待。
 
 *** 
 
