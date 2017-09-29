@@ -23,16 +23,17 @@
 
 ### 联系我吆！
 
-|                |                                       |
-|----------------|--------------------------------        |
-|:mushroom: 微博       |http://blog.sina.com.cn/juzldream  |
-|:octocat: GitHub    |https://github.com/juzldream         |
-|:love_letter: 邮箱       |juzldream@foxmail.com            |
-|微信订阅号        | [蝉溪一梦](https://mmbiz.qlogo.cn/mmbiz_png/4iaE7bB4HCjfn8ia42fUxhYPRdKm3qhkI0DazY7MDcBCIDib2oX6ZwZN0IffoTrCVTaumKNAnB2ucpBfmMsFO32cw/0?wx_fmt=png)                               |
+|                |                                                                                                 |
+|----------------|-------------------------------------------------------------------------------------------------|
+|:mushroom: 微博       |http://blog.sina.com.cn/juzldream                                                          |
+|:orange_book: 简书       |http://www.jianshu.com/u/ed22dafc9da7                                                   |
+|:octocat: GitHub    |https://github.com/juzldream                                                                 |
+|:love_letter: 邮箱       |juzldream@foxmail.com                                                                   |
+|微信订阅号        | [juzldream](https://mmbiz.qlogo.cn/mmbiz_png/4iaE7bB4HCjfn8ia42fUxhYPRdKm3qhkI0DazY7MDcBCIDib2oX6ZwZN0IffoTrCVTaumKNAnB2ucpBfmMsFO32cw/0?wx_fmt=png)           |
 
 哎！直接拿起微信扫我吧 ：） 
 
-![][juzldream]
+![蝉溪一梦][juzldream]
 
 
 [GitHub]:https://github.com/juzldream
