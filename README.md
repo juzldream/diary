@@ -10,7 +10,7 @@
 
 [GitHub](https://mmbiz.qlogo.cn/mmbiz_png/4iaE7bB4HCjcgo9osia4y9UiaE2JwbxkLJVcaITiaGBkyDEILRoPnuibGRZhnPiaqrDVv91VDZX5g9Q79frTKwEDTIIg/0?wx_fmt=png)
 
-# 2017年日记
+# [2017年日记](2017年度)
 
 - [个认介绍](resume.md)
 - [发现了一处凉快地儿](2017年度/发现了一处凉快地儿.md)
