@@ -14,7 +14,7 @@
 
 ### 特长技能
 - 正在学习 Python 语言、Selenium自动化测试脚本
-- 会点 PHP 、JavaScript、Html、CSS
+- 会点 Python 、PHP 、JavaScript、Html、CSS
 - 会使用Bash脚本语言
 - 喜欢 Linux 操作系统，熟练使用Centos、rhel系统，能够搭建常用的服务器
 - 能够使用Jmeter、Loadrunner、Selenium、按键精灵录制自动化测试脚本
