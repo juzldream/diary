@@ -2,17 +2,17 @@
 
 #### 操作系统
 
-- [ ] Linux
-- [ ] Windows
+- [x] Linux
+- [x] Windows
 
 #### 编程
 
-- [ ] Python
-- [ ] Shell
-- [ ] HTML
-- [ ] CSS
-- [ ] JavaScript 
-- [ ] XPath
+- [x] Python
+- [x] Shell
+- [x] HTML
+- [x] CSS
+- [x] JavaScript 
+- [x] XPath
 - [x] XML
 - [x] Markdown
 
@@ -35,12 +35,12 @@
 
 - [ ] JMeter
 - [ ] LoadRunner
-- [ ] Selenium
+- [x] Selenium
 
 
 ### 生活篇
 
 - [ ] 瑜伽
 - [ ] 英语
-- [ ] 看书
-- [ ] 订阅号（JuzlDream）
+- [x] 看书
+- [x] 订阅号（JuzlDream）
