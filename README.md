@@ -3,6 +3,10 @@
 记录 [racher](resume.md) 每天的task、思考、随笔、日志等等。
 
 *** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**让记录成就更好的自己 ！**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过记录慢慢获得觉知，通过觉知慢慢获得自觉，通过自觉慢慢得自律，通过自律慢慢得自由。
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;读书不是为了雄辩和驳斥，也不是为了轻信和盲从，而是为了思考和权衡。
 
